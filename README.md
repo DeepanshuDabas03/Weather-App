@@ -1,5 +1,7 @@
-**WeatherApp: Part 2**
-
+<h1>WeatherApp: Part 2 </h1>
+<p align="center">
+<img src="https://github.com/DeepanshuDabas03/Weather-App/blob/part_2/App-2%20UI.png" width="300" height=auto>
+   </p>
 This Android application use Open-Meteo API to retrieve weather information, either current or historical. It empowers users to input a location (latitude/longitude) and date to acquire the corresponding maximum and minimum temperatures for that specific time and place.
 
 **Technologies**
